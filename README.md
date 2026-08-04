@@ -1,2 +1,20 @@
-# Hospital-Management-System
-MedClinic Pro is a modern full-stack Clinic Management System designed to streamline healthcare operations. It includes secure authentication, patient, doctor, and admin dashboards, appointment scheduling, patient records, prescriptions, billing, pharmacy management, and responsive UI with seamless backend API integration.
+# Medicare Backend
+
+This repository contains the backend code for the Medicare Patient Management System.
+
+## Features
+- Patient Management API
+- User Authentication
+- Database Integration
+- RESTful APIs
+
+## Live Website
+https://medicare-two-wheat.vercel.app/
+
+## Tech Stack
+- Node.js
+- Express.js
+- MongoDB
+
+## Note
+The frontend source code is currently not included in this repository. Only the backend implementation is available.
