@@ -9,7 +9,7 @@ This repository contains the backend code for the Medicare Patient Management Sy
 - RESTful APIs
 
 ## Live Website
-https://medicare-two-wheat.vercel.app/
+(https://health-logix-pro.lovable.app/)
 
 ## Tech Stack
 - Node.js
